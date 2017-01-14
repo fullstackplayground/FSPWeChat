@@ -17,4 +17,5 @@
  - [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
  
 # Notes:
-Every memeber should commit to develop branch, it might be good to merge to master branch every week with approval from all memebers or delegate.
+ - Every memeber should commit to develop branch, it might be good to merge to master branch every week with approval from all memebers or delegate.
+ - Make sure you do "git pull" and sync with remote branch(develop) before every commit to remote repository
